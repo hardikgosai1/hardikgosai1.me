@@ -1,4 +1,4 @@
-# hardikgosai1collisiondetection
+# Hardikgosai1 collisiondetection
 Library and command line tool to detect SHA-1 collisions in files
 
 Copyright 2017 Marc Stevens <marc@marc-stevens.nl>
